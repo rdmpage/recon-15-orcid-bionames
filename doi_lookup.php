@@ -7700,6 +7700,7 @@ $dois=array(
 '10.1111/syen.12066'
 );
 
+/*
 // PLoS
 $dois=array(
 '10.1371/journal.pone.0006577',
@@ -7903,6 +7904,8 @@ $dois=array(
 '10.1371/journal.pone.0111154'
 );
 
+*/
+/*
 // Zookeys
 $dois=array(
 '10.3897/jhr.21.870',
@@ -9390,6 +9393,7 @@ $dois=array(
 '10.3897/zookeys.5.62',
 '10.3897/zse.90.8705'
 );
+*/
 
 foreach ($dois as $doi)
 {
