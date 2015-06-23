@@ -7,8 +7,10 @@ require_once (dirname(__FILE__) . '/fingerprint.php');
 
 
 $orcid = '0000-0001-8380-0692';
-
 $doi = '10.1111/j.1475-4983.2009.00879.x';
+
+$doi = '10.1002/mmnd.200800007';
+$orcid = '0000-0002-6914-1026';
 
 // Fetch ORCID
 $url = 'http://pub.orcid.org/v1.2/' . $orcid . '/orcid-profile';
